@@ -1,0 +1,11 @@
+algo,env,peak_return_mean,peak_return_std,peak_return_95ci,n_seeds,win_mean,win_std
+iql,smaclite,24.556,0.161,0.2,5,0.998,0.004
+iql,rware,0.072,0.041,0.051,5,,
+vdn,smaclite,23.889,0.441,0.548,5,1.0,0.0
+vdn,rware,0.158,0.089,0.11,5,,
+qmix,smaclite,24.579,0.426,0.529,5,1.0,0.0
+qmix,rware,0.088,0.024,0.03,5,,
+mappo,smaclite,26.106,0.36,0.447,5,1.0,0.0
+mappo,rware,21.2,0.353,0.438,5,,
+coma,smaclite,20.984,2.637,3.274,5,0.608,0.341
+coma,rware,0.574,0.341,0.423,5,,

@@ -1,0 +1,9 @@
+.env
+*.key
+__pycache__/
+*.pyc
+wandb/
+results/
+*.pt
+*.pth
+*.ckpt
